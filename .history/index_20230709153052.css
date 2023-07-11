@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background-color: beige;
+}
+header{
+    background: rgb(5,4,24);
+    background: linear-gradient(90deg, rgba(5,4,24,0.9557072829131653) 0%, rgba(134,66,179,0.7400210084033614) 100%);
+}
+.registration-part{
+
+    padding: 50px;
+    
+}
+.text-cente{
+    text-align: center;
+}
+div.form-group{
+    padding: 5px;
+}
+
+.eye-icon {
+    cursor: pointer;
+    position: absolute;
+    top: 70%;
+    right: 70%;
+    transform: none;
+    margin-top: 0.5rem;
+}

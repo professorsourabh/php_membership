@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    background-image: linear-gradient();
+}
+div.form-group{
+    padding: 5px;
+}

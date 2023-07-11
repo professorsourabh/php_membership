@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: rgb(5,4,24);
+    background: linear-gradient(90deg, rgba(5,4,24,0.9557072829131653) 0%, rgba(32,21,60,0.7400210084033614) 100%);
+}
+div.form-group{
+    padding: 5px;
+}

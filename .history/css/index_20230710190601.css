@@ -1,0 +1,13 @@
+.input-control.succuss input{
+    border-color: #09c372;
+}
+
+.input-control.error input{
+    border-color: #ff3860;
+}
+
+.input-control .error{
+    color: #ff3860;
+    font-size: 13px;
+    height: 13px;
+}
