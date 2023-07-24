@@ -37,11 +37,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->Port = 465;
             $mail->SMTPAuth = true;
             $mail->SMTPSecure = 'ssl';
-            $mail->Username = 'ssingh30126@gmail.com';
-            $mail->Password = 'ddjdjokukrbdhuro';
+            $mail->Username = 'userEmail@gmail.com';
+            $mail->Password = 'email password';
 
             // Set email properties
-            $mail->setFrom('ssingh30126@gmail.com');
+            $mail->setFrom('userEmail@gmail.com');
             $mail->addAddress($email);
             $mail->isHTML(true);
             $mail->Subject = 'Account Activation';
